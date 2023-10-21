@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppGitHubSearch</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="descricao_ic_wifi_off">Falha na conexão</string>
+    <string name="text_wifi_off">Falha na conexão com a internet</string>
+    <string name="descricao_ic_share">Ícone para compartilhar</string>
+    <string name="response_error" />
+
+</resources>
